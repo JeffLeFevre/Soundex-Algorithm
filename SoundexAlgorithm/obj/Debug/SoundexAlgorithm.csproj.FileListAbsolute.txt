@@ -1,0 +1,6 @@
+C:\Users\Jlefevre\Documents\Visual Studio 2012\Projects\SoundexAlgorithm\SoundexAlgorithm\bin\Debug\SoundexAlgorithm.exe.config
+C:\Users\Jlefevre\Documents\Visual Studio 2012\Projects\SoundexAlgorithm\SoundexAlgorithm\bin\Debug\SoundexAlgorithm.exe
+C:\Users\Jlefevre\Documents\Visual Studio 2012\Projects\SoundexAlgorithm\SoundexAlgorithm\bin\Debug\SoundexAlgorithm.pdb
+C:\Users\Jlefevre\Documents\Visual Studio 2012\Projects\SoundexAlgorithm\SoundexAlgorithm\obj\Debug\SoundexAlgorithm.exe
+C:\Users\Jlefevre\Documents\Visual Studio 2012\Projects\SoundexAlgorithm\SoundexAlgorithm\obj\Debug\SoundexAlgorithm.pdb
+C:\Users\Jlefevre\Documents\Visual Studio 2012\Projects\SoundexAlgorithm\SoundexAlgorithm\obj\Debug\SoundexAlgorithm.csprojResolveAssemblyReference.cache
